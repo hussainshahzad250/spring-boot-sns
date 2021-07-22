@@ -1,0 +1,6 @@
+cloud:
+  accessKey: AKIARGODPHJ4BUA4QDVG
+  secretKey: 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
+  topicArn: arn:aws:sns:ap-south-1:082551192184:testTopic
+server:
+  port: 8090
